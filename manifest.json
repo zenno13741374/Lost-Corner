@@ -1,0 +1,17 @@
+{
+  "short_name": "",
+  "name": "Rimless",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#1a1a1a",
+  "theme_color": "#fafafa",
+  "display": "standalone",
+  "orientation": "portrait"
+}
